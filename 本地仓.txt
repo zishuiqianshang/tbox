@@ -1,0 +1,27 @@
+{ "urls": [{ "url": "http://zishui.gitee.io/tbox//tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/PG/api.json", "name": "PG" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/道长JS/api.json", "name": "道长JS" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/南风/api.json", "name": "南风" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/骚零/api.json", "name": "骚零" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/白嫖/api.json", "name": "白嫖" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/小胡/api.json", "name": "小胡" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "http://zishui.gitee.io/tbox//tvboxqq/动漫频道/api.json", "name": "动漫频道" }]}
